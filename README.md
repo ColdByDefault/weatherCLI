@@ -1,4 +1,4 @@
-# CLI To-Do List Application
+# Weather CLI Tool
 
 A simple command-line tool for fetching weather information using Python and OpenWeatherMap API.
 #### more on Wiki
